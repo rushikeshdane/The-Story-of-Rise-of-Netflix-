@@ -1,4 +1,4 @@
-# The-Story-of-Rise-of-Netflix-
+# netflix
 detailed data visualization with plotly
 
 
